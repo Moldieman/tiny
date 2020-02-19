@@ -1,0 +1,2 @@
+# tiny
+First NPM package
