@@ -1,4 +1,4 @@
-# @Moldieman/tiny
+# @moldesurf/tiny
 
 [![npm (scoped)](https://img.shields.io/npm/v/@moldesurf/tiny.svg)](https://www.npmjs.com/package/@moldesurf/tiny)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@moldesurf/tiny.svg)](https://www.npmjs.com/package/@moldesurf/tiny)
